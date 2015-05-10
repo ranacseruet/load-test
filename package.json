@@ -1,0 +1,16 @@
+{
+  "name": "load-test",
+  "version": "0.0.1",
+  "description": "A simple app for load testing of simple http API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Md Ali Ahsan Rana",
+  "license": "ISC",
+  "dependencies": {
+    "clustered-node": "0.0.9",
+    "express": "^4.12.3",
+    "nodemon": "^1.3.7"
+  }
+}
