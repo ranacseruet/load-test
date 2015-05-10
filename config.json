@@ -3,5 +3,5 @@
   "noOfWorker": 4,
   "fileName": "./data/Latest_plane_crash.html",
   "fibonacciLevel": 34,
-  "cacheTime": 50
+  "cacheTime": 100
 }
